@@ -1,5 +1,5 @@
 dnspython==2.2.0
 gitpython==3.1.26
 motor==3.3.2 # 2.5.1
-https://github.com/TelegramPlayGround/pyrogram/archive/19436a9.zip
+pyrotgfork==2.1.22
 python-dotenv==0.19.2
