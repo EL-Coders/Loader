@@ -1,5 +1,6 @@
 dnspython==2.2.0
 gitpython==3.1.26
 motor==3.3.2 # 2.5.1
-pyrotgfork==2.1.33.11
+pyrotgfork==2.2.9
+TgCrypto==1.2.5
 python-dotenv==0.19.2
